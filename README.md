@@ -77,6 +77,7 @@ public class Piece extends Drawable implements Nameable
 }
 
 Sample Output ( PieceTester.java )
+
 5 5 5 5 empty java.awt.Color[r=0,g=0,b=255]
 5 5 5 5 red checker java.awt.Color[r=0,g=0,b=255]
 100 100 5 5 the shoe from a money game java.awt.Color[r=0,g=0,b=255]
